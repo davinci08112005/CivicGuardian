@@ -1,0 +1,5 @@
+{
+  "name": "CivicGuardian",
+  "description": "An advanced public safety analytics platform for Montgomery city emergency data, featuring AI-powered insights, predictive trends, and interactive visualizations.",
+  "requestFramePermissions": ["geolocation"]
+}
